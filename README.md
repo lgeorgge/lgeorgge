@@ -1,6 +1,6 @@
 # Hey, I'm George 👋
 
-### Backend Developer | C#  •.NET • NestJS • PostgreSQL
+### Backend Software Engineer | C#  •.NET • NestJS • PostgreSQL
 
 I build backend systems that turn complex business requirements into **structured, reliable, and maintainable software**.
 
