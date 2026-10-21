@@ -12,8 +12,6 @@ I enjoy working on systems where correctness matters — designing clear busines
 
 ### ⚡ Tech Stack
 
-### ⚡ Tech Stack
-
 **Backend Development**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
