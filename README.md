@@ -89,4 +89,4 @@ Feel free to explore my repositories or connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-lgeorgge-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/lgeorgge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-George_Sherif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-sherif-9ab94a2b3/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-jeo69-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/jeo69/)
-[![Gmail](georgesheruf1234@gmail.com)
+[![Gmail](https://shields.io)](mailto:georgesheruf1234@gmail.com)
